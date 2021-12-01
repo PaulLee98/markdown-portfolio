@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below is a _list_ of my **technical skills**
+
+## Programming languages
+- Python
+
+## Collaboration
+- GitHub
+- Git
+
+## GIS Software
+- ArcMap
+- ArcGIS Pro
+- Map Publisher
